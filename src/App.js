@@ -6,8 +6,8 @@ import Textbox from './components/Textbox';
 function App() {
   return (
     <>
-     <Navbar pageName = "TEXT CHANGER" /> 
-     <div className="container"><Textbox heading= "Enter text below" submit = "Convert to Uppercase" /></div>
+     <Navbar pageName = "My Dashboard" /> 
+     <div className="container"><Textbox submit = "Add New Schecule" /></div>
      
     </>
   
