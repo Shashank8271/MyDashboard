@@ -1,0 +1,24 @@
+.from-pop{
+    position: fixed;
+    top: 0%;
+    bottom: 0%;
+    width: 100%;
+    height: 100vh;
+    background-color: rbga(0, 0, 0, 0.2);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.from1-pop {
+    position: relative;
+    padding: 32px;
+    width: 100%;
+    max-width: 640px;
+    background-color: aliceblue;
+}
+.from-pop .form2-pop{
+    top: 15px;
+    right: 15px;
+    
+}
